@@ -44,7 +44,16 @@
 
 ## 🚀 Projects
 
+### 👕 AI Clothing Size Recommendation System
+
+Developed an AI-assisted recommendation system for clothing size prediction using **C# and ASP.NET Core**.
+
+- AI-supported clothing size recommendation
+- Data analysis and algorithm optimization
+- Improved recommendation accuracy through model tuning
+
 ### 🛰 ToplumPlatformu
+
 Civic-tech platform where citizens can report city issues.
 
 - Map based issue reporting
