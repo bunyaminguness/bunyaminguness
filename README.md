@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there 👋 I'm Bünyamin Güneş
 
-<!--
-**bunyaminguness/bunyaminguness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+📍 Istanbul, Turkey  
+🚀 Interested in Backend Development, AI and Web Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering student at **Fatih Sultan Mehmet Vakıf University**
+- 🔧 Building backend systems with **C# and ASP.NET Core**
+- 🧠 Interested in **Machine Learning and AI systems**
+- 🌍 Currently working on real-world software projects
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- C#
+- Python
+
+**Backend**
+
+- ASP.NET Core
+- REST API
+- MVC
+
+**Database**
+
+- MongoDB
+- PostgreSQL
+- SQL Server
+
+**Tools**
+
+- Git
+- Visual Studio
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🛰 ToplumPlatformu
+Civic-tech platform where citizens can report city issues.
+
+- Map based issue reporting
+- Backend API with .NET
+- Issue tracking system
+
+### 🤖 Issue Severity Prediction
+Machine learning model predicting issue priority.
+
+- Built with Python
+- Data analysis and classification
+
+---
+
+## 📊 GitHub Stats
+
+![Bunyamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyaminguness&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyaminguness&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+📧 gunesbunyamin004@gmail.com  
+📍 Istanbul, Turkey
