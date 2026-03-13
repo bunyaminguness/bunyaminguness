@@ -2,7 +2,7 @@
 
 💻 Computer Engineering Student  
 📍 Istanbul, Turkey  
-🚀 Backend Development | AI | Web Technologies
+🚀 Full Stack Development | AI | Web Technologies
 
 ---
 
